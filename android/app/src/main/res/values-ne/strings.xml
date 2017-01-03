@@ -36,7 +36,7 @@
     <string name="notification_key">सूचना</string>
 
     <string name="settings_mode_timezone"> स्थानीय समय शो</string>
-    <string name="summary_mode_timezone">यो सम्मेलन \ 'को स्थानीय समय को सट्टा आफ्नो स्थानीय समय प्रयोग गर्नुहोस्।</string>
+    <string name="summary_mode_timezone">यो सम्मेलन \'को स्थानीय समय को सट्टा आफ्नो स्थानीय समय प्रयोग गर्नुहोस्।</string>
     <string name="timezone_mode_key">समय क्षेत्र मोड</string>
 
     <string name="language_preferences">भाषा प्राथमिकता</string>
